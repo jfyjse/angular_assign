@@ -1,0 +1,23 @@
+.bck{
+    display: block;
+    /* height: 100%;
+    width: 100%; */
+    background-image: url('../../assets/images/heaphone.jpeg');
+    
+    height: 880px;
+    
+    
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+}
+.contentadj{
+    width: 35%;
+}
+
+
+.marg
+{
+    margin-top: 55px;
+}
